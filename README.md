@@ -28,7 +28,7 @@ zip.zip(input, output, level, ignoredotfile, verbose);
 input = output;
 output = desktop + "test";
 
-zip.unzip(input, output, level, verbose);
+zip.unzip(input, output, ignoredotfile, verbose);
 
 ```
 **Note**: Unicode file paths are supported on all platforms. You can ignore dot files and dot folders for both archiving and extracting. Specifying the verbose option will list all relative paths in stdOut.
