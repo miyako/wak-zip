@@ -31,6 +31,6 @@ output = desktop + "test";
 zip.unzip(input, output, level, verbose);
 
 ```
-**Note**: Unicode file paths are supported on all platforms. You can ignore dot files and dot folders for both archiving and extracting. Seccifying the verbose option will list all relatives paths in stdOut.
+**Note**: Unicode file paths are supported on all platforms. You can ignore dot files and dot folders for both archiving and extracting. Seccifying the verbose option will list all relative paths in stdOut.
 
 
