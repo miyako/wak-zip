@@ -33,4 +33,5 @@ zip.unzip(input, output, level, verbose);
 ```
 **Note**: Unicode file paths are supported on all platforms. You can ignore dot files and dot folders for both archiving and extracting. Specifying the verbose option will list all relative paths in stdOut.
 
+Source code for the [wazip](https://github.com/miyako/console-zip) and [waunzip](https://github.com/miyako/console-unzip) programs are on GitHub.
 
