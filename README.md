@@ -3,6 +3,12 @@ wak-zip
 
 Wakanda module to zip and unzip files and folders.
 
+About
+-----
+
+* libboost/1.57.0
+* libz/1.28
+
 Example
 -------
 ```js
