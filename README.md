@@ -6,8 +6,8 @@ Wakanda module to zip and unzip files and folders.
 About
 -----
 
-* libboost/1.57.0
-* libz/1.28
+* [libboost](http://www.boost.org/)/1.57.0
+* [libz](http://www.zlib.net/)/1.28
 
 Example
 -------
